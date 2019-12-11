@@ -12,4 +12,10 @@
 
 @end
 
+@interface NSArray (NilSafe)
 
+@end
+
+@interface NSMutableArray (NilSafe)
+
+@end

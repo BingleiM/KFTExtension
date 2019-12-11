@@ -81,4 +81,11 @@
 /** 根据一个GIF图片的URL 获得GIF image对象 */
 + (void)imageWithGIFUrl:(NSString  * _Nonnull)url callBack:(void(^_Nullable)(UIImage * _Nullable gifImage))callBack;
 
+/** 生成条形码以及二维码 */
+
+///  生成网址对应的二维码
+/// @param urlString 网址
+/// @param codeSize 指定生成的二维码大小
++ (UIImage *_Nullable)generateQRCode:(NSString * _Nonnull)urlString codeSize:(CGSize)codeSize;
+
 @end

@@ -38,6 +38,7 @@ NS_ASSUME_NONNULL_BEGIN
                            action:(SEL)action
                            isLeft:(BOOL)isLeft;
 
+- (void)deallocCurrentViewController;
 
 @end
 
