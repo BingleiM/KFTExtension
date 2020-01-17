@@ -30,4 +30,6 @@ FOUNDATION_EXPORT const unsigned char KFTExtensionVersionString[];
 #import <KFTExtension/NSDictionary+Unicode.h>
 #import <KFTExtension/NSObject+SafeSwizzle.h>
 #import <KFTExtension/NSString+Unicode.h>
+#import <KFTExtension/KFTDateTool.h>
+#import <KFTExtension/KFTMD5Tool.h>
 
