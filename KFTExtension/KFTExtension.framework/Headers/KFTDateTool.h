@@ -75,6 +75,14 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (NSDate *)dateByAddingYear:(NSInteger)year toDate:(NSDate *)date;
 
+/**
+获取某年某月的第一天/最后一天日期
+
+@param date 查询某年某月日期, 传空默认查询当前年月
+@return <第一天/最后一天日期数组>
+*/
++ (nullable NSArray<NSDate *> *)fetchFirstAndLastDayAtYearMonthDate:(NSDate *)date;
+
 @end
 
 NS_ASSUME_NONNULL_END
