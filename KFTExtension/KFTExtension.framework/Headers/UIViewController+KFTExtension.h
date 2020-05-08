@@ -38,7 +38,9 @@ NS_ASSUME_NONNULL_BEGIN
                            action:(SEL)action
                            isLeft:(BOOL)isLeft;
 
-- (void)deallocCurrentViewController;
+/// 销毁当前通过 present 或者 push 方式加载的视图控制器
+/// @param flag 是否需要动画效果
+- (void)deallocCurrentViewControllerAnimated:(BOOL)flag;
 
 @end
 
