@@ -42,6 +42,10 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param flag 是否需要动画效果
 - (void)deallocCurrentViewControllerAnimated:(BOOL)flag;
 
+/// 获取根视图
+/// @param viewController 例如 [UIApplication sharedApplication].keyWindow.rootViewController
++ (UIViewController *)fetchRootViewController:(UIViewController *)viewController;
+
 @end
 
 NS_ASSUME_NONNULL_END

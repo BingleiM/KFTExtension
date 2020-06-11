@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/NSString+KFTExtension.h</key>
 		<data>
-		fRZpZULFWpEy9sVfKDh5EheqhBw=
+		CfzEjzqTULj3omzi7rhDUDnG2zc=
 		</data>
 		<key>Headers/NSString+Unicode.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Headers/UINavigationController+KFTExtension.h</key>
 		<data>
-		2afqH4GB8pIu88gqroEwWQInyaI=
+		R10enVt1Iyn9Pan3QHy/OGpzgHA=
 		</data>
 		<key>Headers/UITableView+KFTExtension.h</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Headers/UIViewController+KFTExtension.h</key>
 		<data>
-		fArxPDzTbOE/BobOhjXd3FP/IJY=
+		q1sHrbIQvBb2RoWoVaxz5rLhXUc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zZsNtH+3dKFJsmtjf4Mprm+bMLI=
+		XqCmgpQdK5dsEaJyB54cgDAlMV0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -213,11 +213,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fRZpZULFWpEy9sVfKDh5EheqhBw=
+			CfzEjzqTULj3omzi7rhDUDnG2zc=
 			</data>
 			<key>hash2</key>
 			<data>
-			ylyvUdNMw5KstHxonrf98qf0VCMpRo3EaHQsvts6Eu8=
+			j0bfdbXGOhM+/GR+0RamHkfyUGnAzsbEN4RA/4l577I=
 			</data>
 		</dict>
 		<key>Headers/NSString+Unicode.h</key>
@@ -290,11 +290,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2afqH4GB8pIu88gqroEwWQInyaI=
+			R10enVt1Iyn9Pan3QHy/OGpzgHA=
 			</data>
 			<key>hash2</key>
 			<data>
-			+kS7ybOvoCuXLm7xGfbWzfGUFs3bJHboHP3evzNdv4Q=
+			cZQjwgxMdQdT5gNjlaPt/XRm0dbzpHtnKMRTfR3HpPQ=
 			</data>
 		</dict>
 		<key>Headers/UITableView+KFTExtension.h</key>
@@ -323,11 +323,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fArxPDzTbOE/BobOhjXd3FP/IJY=
+			q1sHrbIQvBb2RoWoVaxz5rLhXUc=
 			</data>
 			<key>hash2</key>
 			<data>
-			GCEKJ4FKABOZ3LWoTK3TgXJmPVwE9MM4gIBrIn70DOo=
+			gLqk3LtW3IewnaORG4WpDcSa0m+5JtKftJL3fDS8Op8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

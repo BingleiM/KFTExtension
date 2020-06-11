@@ -90,7 +90,7 @@
 /** 验证是否为有效邀请码 */
 + (BOOL)isValidInviteCode:(NSString *)string;
 
-/** 验证是否是合法的 url 链接 */
+/** 验证是否是合法的 url 链接， 如：http://www.baidu.com 或者 http://192.168.1.1） */
 + (BOOL)isValidUrl:(NSString *)urlString;
 
 /** 限制输入 0~9 和 . */
