@@ -1,6 +1,0 @@
-framework module KFTExtension {
-  umbrella header "KFTExtension.h"
-
-  export *
-  module * { export * }
-}
