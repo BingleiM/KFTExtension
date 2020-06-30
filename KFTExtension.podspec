@@ -24,9 +24,9 @@ s.ios.deployment_target = '8.0'
 #s.frameworks = "CoreTelephony", "AssetsLibrary", "CoreMedia", "AVFoundation", "WebKit", "SystemConfiguration"
 s.frameworks = "Foundation", "UIKit"
 #SDK路径（因为传的是静态库，这个必须要）
-#s.vendored_frameworks = "KFTExtension/KFTExtension.framework"
-s.source_files = 'KFTExtension/Classes/**/*.{h,m}'
-s.public_header_files = 'KFTExtension/Classes/**/*.{h}'
+s.vendored_frameworks = "KFTExtension/KFTExtension.framework"
+#s.source_files = 'KFTExtension/Classes/**/**/*.{h,m}'
+#s.public_header_files = 'KFTExtension/Classes/*.h'
 
 
 end
