@@ -25,8 +25,8 @@ s.ios.deployment_target = '8.0'
 s.frameworks = "Foundation", "UIKit"
 #SDK路径（因为传的是静态库，这个必须要）
 #s.vendored_frameworks = "KFTExtension/KFTExtension.framework"
-s.source_files = 'KFTExtension/**/*.{h,m}'
-s.public_header_files = 'KFTExtension/**/*.{h}'
+s.source_files = 'KFTExtension/Classes/**/*.{h,m}'
+s.public_header_files = 'KFTExtension/Classes/**/*.{h}'
 
 
 end
