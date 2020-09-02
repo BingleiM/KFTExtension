@@ -12,8 +12,7 @@
 @interface NSObject (SafeSwizzle)
 
 //交换对象方法
-//+ (BOOL)swizzleSelector:(SEL)originalSelector withSwizzledSelector:(SEL)swizzledSelector;
-+ (BOOL)exchangeInstance:(Class)class selector:(SEL)originalSelector withSwizzledSelector: (SEL)swizzledSelector;
++ (BOOL)exchangeInstance:(Class)aClass selector:(SEL)originalSelector withSwizzledSelector:(SEL)swizzledSelector;
 
 @end
 
