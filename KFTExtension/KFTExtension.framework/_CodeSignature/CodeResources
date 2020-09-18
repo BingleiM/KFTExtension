@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/KFTMD5Tool.h</key>
 		<data>
-		byqA9cJXi1hs7RA3KujrY+GDjzU=
+		NRSF+/pePWVQCslapmagVVd6ZjI=
 		</data>
 		<key>Headers/NSArray+Unicode.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/UIButton+KFTExtension.h</key>
 		<data>
-		iWf/vW1i2zMtGtNmQRcqfZ3stAs=
+		h/IDQbeDzsHy3r7+WycN7ogzb9U=
 		</data>
 		<key>Headers/UICollectionView+KFTExtension.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ut4CwupxNzOEIAhCv6eW+whUzB4=
+		PRDP7LYFbNfwQ1zATX5ZONQi5GY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			byqA9cJXi1hs7RA3KujrY+GDjzU=
+			NRSF+/pePWVQCslapmagVVd6ZjI=
 			</data>
 			<key>hash2</key>
 			<data>
-			PVkPGQg+Yswn0emIH/UaHsfnp2Ndyv2zYItCy105E8k=
+			U8iB6t8PZ8nmlR+C2MA7/xmobalxf6QHI2AQmwne6Dw=
 			</data>
 		</dict>
 		<key>Headers/NSArray+Unicode.h</key>
@@ -235,11 +235,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iWf/vW1i2zMtGtNmQRcqfZ3stAs=
+			h/IDQbeDzsHy3r7+WycN7ogzb9U=
 			</data>
 			<key>hash2</key>
 			<data>
-			Bx+FHjsiFLqef98mhA6rUeZSHRaRWeGkarzGxZ6dx/E=
+			zInmFP29x+FSo3XJTc+JTJmnxlG06jf2JFVBsuAbmMs=
 			</data>
 		</dict>
 		<key>Headers/UICollectionView+KFTExtension.h</key>

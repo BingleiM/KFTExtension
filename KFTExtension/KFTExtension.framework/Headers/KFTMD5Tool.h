@@ -61,6 +61,15 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (NSString *_Nonnull)fetch32BateLetterAndNumber;
 
+/**
+ *  计算文件 MD5 值
+ *
+ *  @param path 传入文件路径
+ *
+ *  @return 返回文件 MD5 值, 如果想要校验 MD5 值正确性, 可以在 Mac 终端中输入 MD5空格 '文件路径', 将终端输出的 MD5 值相比较
+ */
++ (NSString *)getFileMD5WithPath:(NSString *)path;
+
 @end
 
 NS_ASSUME_NONNULL_END

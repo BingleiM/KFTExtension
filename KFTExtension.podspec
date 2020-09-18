@@ -3,7 +3,7 @@ s.authors      = "BingleiM"
 #名称
 s.name         = "KFTExtension"
 #版本号
-s.version      = "1.0.8"
+s.version      = "1.0.9"
 #简介
 s.summary      = "Extension"
 s.description  = <<-DESC
