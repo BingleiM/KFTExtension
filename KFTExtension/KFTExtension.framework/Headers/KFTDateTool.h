@@ -83,6 +83,23 @@ NS_ASSUME_NONNULL_BEGIN
 */
 + (nullable NSArray<NSDate *> *)fetchFirstAndLastDayAtYearMonthDate:(NSDate *)date;
 
+/// 计算两个日期的差值
+/// @param unit
+/*
+* 要比较的时间单位,常用如下,可以同时传：
+*    NSCalendarUnitDay : 天
+*    NSCalendarUnitYear : 年
+*    NSCalendarUnitMonth : 月
+*    NSCalendarUnitHour : 时
+*    NSCalendarUnitMinute : 分
+*    NSCalendarUnitSecond : 秒
+*/
+/// @param fromDate fromDate
+/// @param toDate toDate
++ (NSDateComponents *)components:(NSCalendarUnit)unit
+                        fromDate:(NSDate *)fromDate
+                          toDate:(NSDate *)toDate;
+
 @end
 
 NS_ASSUME_NONNULL_END

@@ -3,7 +3,7 @@ s.authors      = "BingleiM"
 #名称
 s.name         = "KFTExtension"
 #版本号
-s.version      = "1.0.9"
+s.version      = "1.1.0"
 #简介
 s.summary      = "Extension"
 s.description  = <<-DESC
@@ -19,7 +19,7 @@ s.source       = { :git => "https://github.com/BingleiM/KFTExtension.git", :tag 
 #s.source_files = "KFTExtension/KFTExtension.framework/**"
 s.requires_arc = true
 #支持最小系统版本
-s.ios.deployment_target = '8.0'
+s.ios.deployment_target = '9.0'
 #依赖库
 #s.frameworks = "CoreTelephony", "AssetsLibrary", "CoreMedia", "AVFoundation", "WebKit", "SystemConfiguration"
 s.frameworks = "Foundation", "UIKit"
