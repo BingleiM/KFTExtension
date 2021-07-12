@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/KFTDateTool.h</key>
 		<data>
-		HyManxm8JvzWHnW7rRmUdn1f4Hw=
+		n16Gt+P15Et65McNGUhWYBEx2q0=
 		</data>
 		<key>Headers/KFTExtension.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/NSString+KFTExtension.h</key>
 		<data>
-		CfzEjzqTULj3omzi7rhDUDnG2zc=
+		2oYhSZrijgzhP/KUGnebVX5lyYA=
 		</data>
 		<key>Headers/NSString+Unicode.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/UIButton+KFTExtension.h</key>
 		<data>
-		h/IDQbeDzsHy3r7+WycN7ogzb9U=
+		Jr2ToIw+Rb3AwH+Kg/JQ4dyKIVk=
 		</data>
 		<key>Headers/UICollectionView+KFTExtension.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8A6+bIBWhV+Au8NiN7WtCu7BdAM=
+		Us8ze95maIR69UPv/2sEfsLIWwo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,11 +103,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HyManxm8JvzWHnW7rRmUdn1f4Hw=
+			n16Gt+P15Et65McNGUhWYBEx2q0=
 			</data>
 			<key>hash2</key>
 			<data>
-			A6I1zxgS/cQbyKHOhutpxXntYfoTkna4N2sSJKZl0cE=
+			iqZ9NttvNZffmPA/y8v6xvfRg+kzcdXaKhsojok+ZA8=
 			</data>
 		</dict>
 		<key>Headers/KFTExtension.h</key>
@@ -213,11 +213,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CfzEjzqTULj3omzi7rhDUDnG2zc=
+			2oYhSZrijgzhP/KUGnebVX5lyYA=
 			</data>
 			<key>hash2</key>
 			<data>
-			j0bfdbXGOhM+/GR+0RamHkfyUGnAzsbEN4RA/4l577I=
+			viyvEIcVRtjRBnY9z9XG5cCFQOPFoexjhn65eDi1G6Q=
 			</data>
 		</dict>
 		<key>Headers/NSString+Unicode.h</key>
@@ -235,11 +235,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h/IDQbeDzsHy3r7+WycN7ogzb9U=
+			Jr2ToIw+Rb3AwH+Kg/JQ4dyKIVk=
 			</data>
 			<key>hash2</key>
 			<data>
-			zInmFP29x+FSo3XJTc+JTJmnxlG06jf2JFVBsuAbmMs=
+			/iWeN978tQudVoxl3wqhD1ZI4Y2YTCjQ+EhI7E5aGk0=
 			</data>
 		</dict>
 		<key>Headers/UICollectionView+KFTExtension.h</key>

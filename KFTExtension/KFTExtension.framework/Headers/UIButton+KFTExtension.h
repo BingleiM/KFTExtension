@@ -39,19 +39,6 @@
 
  @param timeout 倒计时总时间
  @param title 倒计时完成后的标题
- @param waitTitle 倒计时正在进行中的标题
- @param timeEndHandle 倒计时结束后回调
- */
-- (void)startTime:(NSInteger)timeout
-            title:(NSString *)title
-        time:(NSString *)waitTitle
-    timeEndHandle:(void(^)(void))timeEndHandle;
-
-/**
- 按钮倒计时
-
- @param timeout 倒计时总时间
- @param title 倒计时完成后的标题
  @param timeRunningHandle 计时器运行中回调，可以在这个回调中添加自定义的任务事件，回调默认在主线程中
  @param timeEndHandle 倒计时结束后回调
  */

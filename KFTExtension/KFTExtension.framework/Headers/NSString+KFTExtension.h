@@ -131,4 +131,13 @@
 /** base64转字符串（解密） */
 + (NSString *)textFromBase64String:(NSString *)base64;
 
+/// 获取 url 中的所有参数名和参数值
+/// @param urlString url
++ (NSDictionary *)getParamsWithUrlString:(NSString *)urlString;
+
+/// 获取 url 指定参数名对应的参数值
+/// @param name 参数名
+/// @param url url
++ (NSString *)getParamByName:(NSString *)name URLString:(NSString *)url;
+
 @end

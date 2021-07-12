@@ -58,6 +58,15 @@ NS_ASSUME_NONNULL_BEGIN
 + (NSDate *)dateFromServerTime:(double)serverTime dateFormat:(NSString *)dateFormat;
 
 /**
+ 日期增加分钟数
+ 
+ @param minute 增加的分钟数
+ @param date 目标日期
+ @return 日期
+ */
++ (NSDate *)dateByAddingMinute:(NSInteger)minute toDate:(NSDate *)date;
+
+/**
  日期增加天数
  
  @param day 增加的天数
@@ -74,6 +83,15 @@ NS_ASSUME_NONNULL_BEGIN
  @return 日期
  */
 + (NSDate *)dateByAddingYear:(NSInteger)year toDate:(NSDate *)date;
+
+/**
+ 日期增加时间
+ 
+ @param components 自定义追加 components.year components.day 等
+ @param date 目标日期
+ @return 日期
+ */
++ (NSDate *)dateByAddingComponents:(NSDateComponents *)components toDate:(NSDate *)date;
 
 /**
 获取某年某月的第一天/最后一天日期
