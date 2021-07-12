@@ -27,8 +27,8 @@ s.frameworks = "Foundation", "UIKit"
 s.vendored_frameworks = "KFTExtension/KFTExtension.framework"
 #s.source_files = 'KFTExtension/Classes/**/**/*.{h,m}'
 #s.public_header_files = 'KFTExtension/Classes/*.h'
- # s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
- # s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
- s.pod_target_xcconfig = { "VALID_ARCHS[sdk=iphonesimulator*]" => "" }
+s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+#s.pod_target_xcconfig = { "VALID_ARCHS[sdk=iphonesimulator*]" => "" }
 
 end
